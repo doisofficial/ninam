@@ -1,0 +1,46 @@
+.tlg {
+    margin: 10px 0px;
+}
+
+.minispan-col {
+    color: honeydew;
+    background: #32afed;
+    padding: 10px;
+}
+
+.logo-block {
+    padding: 10px;
+}
+
+.page-title {
+    font-size: 26px;
+    line-height: 32px;
+    font-weight: bold;
+    text-align: center;
+    max-width: 340px;
+    padding: 0 10px;
+    margin: 0 auto;
+    color: #333;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.page-title-extra {
+    font-size: 15px;
+    line-height: 27px;
+    text-align: center;
+    margin-bottom: 6px;
+    color: #808080;
+}
+
+.page-title-url {
+    font-size: 15px;
+    font-weight: lighter;
+    padding: 0 0 20px 0;
+    margin: 0 auto;
+    color: #333;
+}
+
+.btn-roundpet {
+    border-radius: 30px;
+}
